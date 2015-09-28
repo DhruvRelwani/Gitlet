@@ -1,0 +1,2 @@
+# Gitlet
+Designed and implemented a version control system from scratch, with strict runtime and memory requirements, that mimics some of Git’s basic features like initialize, add, commit, remove, log, global log, find, status, checkout, branch, remove branch, reset, merge, rebase and interactive rebase. Developed serializable java classes to store metadata, account for the failure cases of Gitlet commands and issue user warnings about “dangerous” commands that overwrite files.
